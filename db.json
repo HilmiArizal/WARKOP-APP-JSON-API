@@ -1,0 +1,80 @@
+{
+    "bestproducts": [
+        {
+            "idbestproduct": 1,
+            "kode": "k-01",
+            "nama": "Indomie Ayam Bawang",
+            "harga": 10000,
+            "is-ready": true,
+            "gambar": "Ayam-bawang.png"
+        },
+        {
+            "idbestproduct": 2,
+            "kode": "k-02",
+            "nama": "Indomie Goreng",
+            "harga": 8000,
+            "is-ready": true,
+            "gambar": "Goreng.png"
+        },
+        {
+            "idbestproduct": 3,
+            "kode": "k-03",
+            "nama": "Indomie Empal Gentong",
+            "harga": 12000,
+            "is-ready": true,
+            "gambar": "Empal-gentong.png"
+        }
+    ],
+    "products": [
+        {
+            "idproduct": 1,
+            "kode": "k-01",
+            "nama": "Indomie Ayam Bawang",
+            "harga": 10000,
+            "is-ready": true,
+            "gambar": "Ayam-bawang.png"
+        },
+        {
+            "idproduct": 2,
+            "kode": "k-02",
+            "nama": "Indomie Goreng",
+            "harga": 8000,
+            "is-ready": true,
+            "gambar": "Goreng.png"
+        },
+        {
+            "idproduct": 3,
+            "kode": "k-03",
+            "nama": "Indomie Empal Gentong",
+            "harga": 12000,
+            "is-ready": true,
+            "gambar": "Empal-gentong.png"
+        },
+        {
+            "idproduct": 4,
+            "kode": "k-04",
+            "nama": "Indomie Kari Ayam",
+            "harga": 12000,
+            "is-ready": true,
+            "gambar": "Kari-ayam.png"
+        },
+        {
+            "idproduct": 5,
+            "kode": "k-05",
+            "nama": "Indomie Rendang",
+            "harga": 12000,
+            "is-ready": true,
+            "gambar": "Rendang.png"
+        },
+        {
+            "idproduct": 6,
+            "kode": "k-06",
+            "nama": "Indomie Soto Ayam",
+            "harga": 12000,
+            "is-ready": true,
+            "gambar": "Soto-ayam.png"
+        }
+    ],
+    "keranjang": [],
+    "pesanan": []
+}
